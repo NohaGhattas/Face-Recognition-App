@@ -1,0 +1,1 @@
+To implement a face recognition app, you don't necessarily need to run the entire training process every time you execute the code. Instead, you can import and use a pre-trained model. This will save a significant amount of time since training models (especially deep learning-based ones) can take hours
